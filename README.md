@@ -4,3 +4,4 @@ MARKDOWN: ES UN LENGUAJE DE MERCADO LIGERO. EN TERMINOS SIMPLES, ES UNA FORMA DE
 SALTOS DE LINEA:
 Si quieres separar dos parrafos, debes presionar enter dos veces. Esto deja un espacio en blanco entre los bloques de texto.
 
+Parrafo ejemplo
