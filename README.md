@@ -24,3 +24,38 @@ ENCABEZADOS
 FORMATO DE TEXTO
 
 NEGRITA **HOLA** CURSIVA *HOLA* NEGRITA Y CURSIVA ***HOLA*** TACHADO ~~HOLA~~ ESCAPADO DE SIMBOLOS \#HOLA
+
+## LISTAS 
+
+* ELEMENTO A
+
+      * ELEMENTO SUB A
+
+
+* ELEMENTO B
+
+      * ELEMENTO SUB B
+
+## NÚMEROS
+
+1. ELEMENTO A
+
+2. ELEMENTO 2
+
+3. ELEMENTO 3  
+    3.1 ELEMENTO3.1
+
+## LINKS & IMÁGENES
+
+*  LINKS: [NOMBRE DE LA WEB]  (LINK)
+
+
+*  IMAGEN: ![duki](https://objetos-xlk.estaticos-marca.com/uploads/2025/03/21/17295359762151.jpeg)
+
+
+*  BLOQUES DE CODIGO
+
+´´´pyhon print("hellou")```
+
+
+Traspasar apuntes 
